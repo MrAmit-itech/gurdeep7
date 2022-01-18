@@ -16,7 +16,7 @@ When I am not coding, I like gardening and board games
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/gurdeep7/)**
 
-- 👨‍💻 All of my projects are available on **[Github](https://github.com/gurdeep7?tab=repositories)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/MrAmit-itech)**
 
 - 💬 Ask me about **Web Developement, JavaScript, Html and CSS**
 
